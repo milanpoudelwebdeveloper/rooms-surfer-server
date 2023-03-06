@@ -10,4 +10,6 @@ Tech Stacks Used:
 
 -PassportJS
 
+-Postgres for the database
+
 
