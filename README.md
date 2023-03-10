@@ -10,6 +10,16 @@ for the location they are interested in.
 - There will be editor roles too which will be assigned by admins. What editors can do is they can review and edit the rooms that are uploaded by users.
 - Finally, an admin will have most previliges like adding, blocking active users and all rooms management, users management can be handled by them.
 
+
+# Tech Stack Used in Server:
+
+- NodeJS
+- ExpressJS
+- PassportJS for google and facebook signup
+- JWT for authentication and authorization
+- Postgres
+
+
 # Tech Stack Used in Client:
 
 - NextJS
