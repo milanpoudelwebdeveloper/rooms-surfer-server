@@ -14,7 +14,7 @@ for the location they are interested in.
 
 - NextJS
 - MaterialUI as an UI library
-- -Mapbox
+- Mapbox
 - React Hook Form for forms validation
 - Firebase Storage
 
