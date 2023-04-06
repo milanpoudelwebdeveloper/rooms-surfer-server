@@ -22,9 +22,7 @@ export const getUser = async (req, res) => {
 };
 
 export const updateUser = async (req, res) => {
-  console.log("req params is", typeof req.params.id);
-  console.log("req user is", typeof req.user);
-  console.log("rew body is", req.body);
+
   try {
     const { name, photourl } = req.body;
     if (req.params.id != req.user) {
