@@ -1,7 +1,7 @@
 # rooms-surfer-server
 
 A room surfer project where any registered user can add rooms, select location from map and either add a free or nominal fee tag to the room. The consumer can browse rooms 
-for the location they are interested in.
+for the location they are interested in
 
 # Features of project are: 
 -  Detail view of location is provided in map so user can search and select or pin a location in the map.
